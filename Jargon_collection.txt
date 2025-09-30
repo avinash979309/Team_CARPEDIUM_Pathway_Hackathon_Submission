@@ -1,0 +1,1596 @@
+ EBITDA stands for Earnings Before Interest, Taxes, Depreciation, and Amortization 
+ WACC stands for Weighted Average Cost of Capital
+ FY stands for Fiscal Year
+ ROI stands for Return on Investment
+ NPV stands for Net Present Value
+ A/C stands for Account
+ ATM stands for	Automated Teller Machine
+ BC stands for Branch Code
+ CA stands for Current Account
+ CD stands for Certificate of Deposit
+ CR stands for Credit
+ DD stands for Demand Draft
+ FD stands for Fixed Deposit
+ IFSC stands for Indian Financial System Code
+ KYC stands for Know Your Customer
+ MICR stands for Magnetic Ink Character Recognition
+ NPA stands for Non-Performing Asset
+ OD stands for Overdraft
+ PAN stands for Permanent Account Number
+ PIN stands for Personal Identification Number
+ PO stands for Pay Order
+ PPF stands for Public Provident Fund
+ RD stands for Recurring Deposit
+ RTGS stands for Real-Time Gross Settlement
+ SB stands for Savings Bank
+ TDS stands for Tax Deducted at Source
+ UPI stands for Unified Payments Interface
+ ACF stands for AutoCorrelation Function
+ AD stands for Authorised Dealer
+ ADB stands for Asian Development Bank
+ ADR stands for American Depository Receipt
+ AFS stands for Annual Financial Statement
+ AIRCSC stands for All India Rural Credit Survey Committee
+ ASSOCHAM stands for Associated Chambers of Commerce and Industry of India
+ BIS stands for Bank for International Settlements
+ BoP stands for Balance of Payments
+ BSCS stands for Basel Committee of Banking Supervision
+ BSR stands for Basic Statistical Returns
+ CAD stands for Capital Account Deficit
+ CAG stands for Controller and Auditor General of India
+ CC stands for Cash Credit
+ CD stands for Certificate of Deposit
+ CR Ratio stands for Credit Deposit Ratio
+ CF stands for Company Finance
+ CFRA stands for Combined Finance and Revenue Accounts
+ CGRA stands for Currency and Gold Revaluation Account
+ CII stands for Confederation of Indian Industry
+ CO stands for Capital Outlay
+ CP stands for Commercial Paper
+ CPI stands for Consumer Price Index
+ CR stands for Capital Receipts
+ CRAR stands for Capital to Risk-Weighted Asset Ratio
+ CRR stands for Cash Reserve Ratio
+ CVC stands for Central Vigilance Commission
+ DBOD stands for Department of Banking Operations and Development
+ DCB stands for Demand Collection and Balance
+ DCCB stands for District Central Co-operative Bank
+ DCM, RBI stands for Department of Currency Management, RBI
+ DD stands for Demand Draft
+ DEIO stands for Department of External Investments and Operations
+ DGCI&S stands for Directorate General of Commercial Intelligence and Statistics
+ DI stands for Direct Investments
+ DICGC stands for Deposit Insurance and Credit Guarantee Corporation of India
+ DID stands for Discharge of Internal Debt
+ DMA stands for Departmentalized Ministries Account
+ DRI stands for Differential Rate of Interest Scheme
+ DSBB stands for Dissemination Standards Bulletin Board
+ DVP stands for Delivery Versus Payment
+ ECB stands for External Commercial Borrowing
+ ECB stands for European Central Bank
+ ECGC stands for Export Credit and Guarantee Corporation
+ ECS stands for Electronic Clearing Scheme
+ EDMU stands for External Debt Management Unit
+ EEA stands for Exchange Equalization Account
+ EEC stands for European Economic Community  
+ EEFC stands for Exchange Earners Foreign Currency  
+ EFR stands for Exchange Fluctuation Reserve  
+ EXIM Bank stands for Export Import Bank of India  
+ FCA stands for Foreign Currency Assets  
+ FCCB stands for Foreign Currency Convertible Bond  
+ FCNRB(B) stands for Foreign Currency Non-resident (Banks)  
+ FCNRA stands for Foreign Currency Non Resident Account  
+ FCNRD stands for Foreign Currency Non Repatriable Deposit  
+ FDI stands for Foreign Direct Investment  
+ FEMA stands for Foreign Exchange Management Act  
+ FI stands for Financial Institution  
+ FICCI stands for Federation of Indian Chambers of Commerce and Industry  
+ FII stands for Foreign Institutional Investor  
+ FIMMDA stands for Fixed Income Money Market and Derivatives Association of India  
+ FISIM stands for Financial Intermediation Services Indirectly Measured  
+ FLAS stands for Foreign Liabilities and Assets Survey  
+ FOF stands for Flow of Funds  
+ FPI stands for Foreign Portfolio Investment  
+ FRA stands for Forward Rate Agreement  
+ FRN stands for Floating Rate Note  
+ GDP stands for Gross Domestic Product  
+ GDR stands for Global Depository Receipt  
+ G-Sec stands for Government Securities  
+ IBRD stands for International Bank for Reconstruction and Development  
+ IDRBT stands for Institute for Development and Research in Banking Technology  
+ IEPF stands for Investors Education and Protection Fund  
+ IFSC stands for Indian Financial System Code  
+ IFC stands for Indian Financial Corporation  
+ IFCI stands for Industrial Finance Corporation of India  
+ IIBF stands for International Institute of Banking and Finance  
+ IIBI stands for Industrial Investment Bank of India  
+ IFC stands for International Finance Corporation  
+ IFR stands for Investment Fluctuation Reserve  
+ IIP stands for Index of Industrial Production  
+ IMF stands for International Monetary Fund  
+ IP stands for Interest Payment  
+ ISDA stands for International Swaps and Derivative Association  
+ ISO stands for International Standards Organisation  
+ KYC stands for Know Your Customer  
+ KVP stands for Kisan Vikas Patra  
+ KVIC stands for Khadi and Village Industries Corporation  
+ LAF stands for Liquidity Adjustment Facility  
+ LAS stands for Loans and Advances by States  
+ LDB stands for Land Development Bank  
+ LERMS stands for Liberalised Exchange Rate Management System  
+ M1 stands for Narrow Money  
+ M3 stands for Broad Money  
+ MA stands for Moving Average  
+ MCA stands for Ministry of Corporate Affairs  
+ MIGA stands for Multilateral Investment Guarantee Agency  
+ MSS stands for Market Stabilisation Scheme  
+ NABARD stands for National Bank for Agriculture and Rural Development  
+ NBFC stands for Non Banking Financial Companies  
+ NEC stands for Not Elsewhere Classified  
+ NEER stands for Nominal Effective Exchange Rate  
+ NFA stands for Non Foreign Exchange Assets  
+ NFD stands for Net Fiscal Deficit  
+ NHB stands for National Housing Bank  
+ NIF stands for Note Issuance Facility  
+ NPA stands for Non Performing Assets  
+ NPV stands for Net Present Value  
+ NSSF stands for National Small Savings Fund  
+ OD stands for Overdraft  
+ OECD stands for Organisation for Economic Cooperation and Development  
+ OLTAS stands for Online Tax Accounting System  
+ PACS stands for Primary Agricultural Credit Societies  
+ PD stands for Primary Deficit  
+ RD stands for Revenue Deficit  
+ RE stands for Revenue Expenditure  
+ REER stands for Real Effective Exchange Rate  
+ RIB stands for Resurgent India Bonds  
+ RLA stands for Recoveries of Loans and Advancements  
+ RTC stands for Repayment of Loans to Centre  
+ RoC’s stands for Registrars of Companies  
+ RR stands for Revenue Receipts  
+ RRB stands for Regional Rural Bank  
+ RTP stands for Reserve Tranche Position  
+ RUF stands for Revolving Underwriting Facility  
+ RWA stands for Risk Weighted Asset  
+ SCARDB stands for State Co-operative Agriculture and Rural Development Bank  
+ SCB stands for State Co-operative Bank  
+ SCB stands for Scheduled Commercial Bank  
+ SDDS stands for Special Data Dissemination Standards  
+ SDR stands for Special Drawing Right  
+ SEBI stands for Securities Exchange Board of India  
+ SFC stands for State Financial Corporation  
+ SIDBI stands for Small Industries Development Bank of India  
+ SIDC stands for State Industrial Development Corporation  
+ SLR stands for Statutory Liquidity Ratio  
+ SMG stands for Standing Monitoring Group  
+ SNA stands for System of National Accounts  
+ TB’s stands for Treasury Bills  
+ TC stands for Temporary Change  
+ TT stands for Telegraphic Transfer  
+ UCN stands for Uniform Code Number  
+ UTI stands for Unit Trust of India  
+ WPI stands for Wholesale Price Index  
+ YTM stands for Yield to Maturity  
+ B2B stands for business-to-business
+ B2C stands for business-to-consumer or business-to-customer
+ BID stands for break it down
+ CEO stands for chief executive officer
+ CFO stands for chief financial officer
+ CMO stands for chief marketing officer
+ CRM stands for customer relationship management
+ EOD stands for end of day
+ EOM stands for end of message
+ ETA stands for estimated time of arrival
+ FIFO stands for first in, first out
+ HR stands for human resources
+ IMO stands for in my opinion
+ KPI stands for key performance indicator
+ MoM stands for month over month
+ MTD stands for month to date
+ NIM stands for no internal message
+ NWR stands for non-work-related
+ OOO stands for out of office
+ PM stands for project manager
+ POC stands for point of contact
+ PPC stands for pay-per-click
+ PR stands for public relations
+ PTO stands for paid time off
+ RE stands for referring to or regarding
+ SaaS stands for software as a service
+ SEO stands for search engine optimization
+ SMART stands for specific, measurable, achievable, relevant, time-bound
+ TLTR stands for too long to read
+ VPN stands for virtual private network
+ WOM stands for word of mouth
+ ACCT stands for account
+ AP stands for accounts payable
+ AR stands for accounts receivable
+ ASAP stands for as soon as possible
+ BR stands for bounce rate
+ BRB stands for be right back
+ BS stands for balance sheet
+ CAO stands for chief administrative officer
+ CFP stands for certified financial planner
+ CMS stands for content management system
+ COB stands for close of business
+ COGS stands for cost of goods sold
+ COO stands for chief operating officer or chief operations officer
+ CPA stands for certified public accountant
+ CPC stands for cost per click
+ CPO stands for chief product officer
+ CPU stands for central processing unit
+ CPU stands for cost per unit
+ CR stands for credit
+ CR stands for conversion rate
+ CSO stands for chief security officer
+ CSR stands for corporate social responsibility
+ CTA stands for call to action
+ CTO stands for chief technology officer
+ CTR stands for click-through rate
+ DOE stands for depending on experience
+ DR stands for debit
+ DM stands for direct message
+ EOT stands for end of thread
+ EOW stands for end of week
+ EPS stands for earnings per share
+ ESP stands for email service provider
+ FTE stands for full-time employee
+ FWIW stands for for what it's worth
+ IAM stands for in a meeting
+ IM stands for instant message or instant messenger
+ IOU stands for I owe you
+ ISP stands for internet service provider
+ L&D stands for learning and development
+ LWOP stands for leave without pay
+ LMK stands for let me know
+ NAV stands for net asset value
+ NRN stands for no reply necessary
+ NSFW stands for not safe for work
+ OT stands for off-topic
+ OTP stands for on the phone
+ PA stands for performance appraisal
+ P&L stands for profit and loss
+ P-Card stands for purchase card
+ P/E stands for price to earnings
+ PTE stands for part-time employee
+ QA stands for quality assurance
+ R&D stands for research and development
+ RFD stands for request for discussion
+ RFP stands for request for proposal
+ ROA stands for return on assets
+ ROE stands for return on equity
+ ROI stands for return on investment
+ RT stands for retweet
+ SMB stands for small to medium business
+ SME stands for subject matter expert
+ SWOT stands for strengths, weaknesses, opportunities, threats
+ TED stands for tell, explain, describe
+ TL;DR stands for too long; didn't read
+ TOS stands for terms of service
+ TYT stands for take your time
+ URL stands for uniform resource locator
+ UX stands for user experience
+ YTD stands for year to date
+ AWC stands for acceptance, waiver, and consent  
+ AUV stands for accumulation unit value  
+ AMT stands for alternative minimum tax  
+ APY stands for annual percentage yield  
+ AML stands for anti-money laundering  
+ AUM stands for assets under management  
+ AIR stands for assumed interest rate, assumed investment rate  
+ ADTV stands for average daily trading volume  
+ CAPM stands for Capital Asset Pricing Model  
+ COD stands for collect on delivery  
+ CAGR stands for compound annual growth rate  
+ CPI stands for consumer price index  
+ CDSC stands for contingent deferred sales charge  
+ CE stands for continuing education  
+ CNS stands for continuous net settlement  
+ DVP stands for delivery versus payment  
+ RVP stands for receive versus payment  
+ DMA stands for direct market access  
+ DCF stands for discounted cash flow  
+ DDM stands for dividend discount model  
+ DPS stands for dividend per share  
+ DBA stands for doing business as  
+ DCA stands for dollar-cost averaging  
+ DK stands for don’t know  
+ DUI stands for driving under the influence  
+ DWI stands for driving while intoxicated  
+ EED stands for expiring exercise declaration  
+ FMCE stands for Floor Member Continuing Education  
+ FFI stands for foreign financial institution  
+ GTC stands for good-til-canceled  
+ GSEs stands for government-sponsored enterprises  
+ GDP stands for gross domestic product  
+ GNP stands for gross national product  
+ GARP stands for growth at a reasonable price  
+ GMIB stands for guaranteed minimum income benefit  
+ GMWB stands for guaranteed minimum withdrawal benefit  
+ GMAB stands for guaranteed minimum accumulation benefit  
+ IOI stands for indication of interest  
+ IT stands for information technology  
+ IRC stands for internal revenue code  
+ LOA stands for letter of authorization  
+ LOI stands for letter of intent  
+ LBO stands for leveraged buyout  
+ LIHTC stands for Low Income Housing Tax Credit  
+ MICR stands for magnetic ink character recognition  
+ MPID stands for market participant identifier  
+ MNPI stands for material nonpublic information  
+ M&A stands for mergers and acquisitions  
+ M&E stands for mortality and expense  
+ NBBO stands for national best bid and offer  
+ NBB stands for national best bid  
+ NBO stands for national best offer  
+ NAV stands for net asset value  
+ OBA stands for outside business activity  
+ OTC stands for over-the-counter  
+ POD stands for payment on delivery  
+ PCE stands for personal consumption expenditure  
+ PII stands for personally identifiable information  
+ PPI stands for producer price index  
+ POP stands for public offering price  
+ REMIC stands for real estate mortgage investment conduit  
+ RSL stands for remote supervisory location  
+ RMD stands for required minimum distribution  
+ ROA stands for right of accumulation  
+ SIE stands for Securities Industry Essentials  
+ SCP stands for supervisory control policies and procedures  
+ TIF stands for tax increment financing  
+ TBE stands for tenants by the entirety  
+ TIC stands for tenants in common  
+ TBA stands for to-be-announced transaction  
+ TAM stands for total addressable market  
+ TOD stands for transfer-on-death  
+ VWAP stands for volume-weighted average price  
+ WAM stands for weighted average maturity  
+ WKSI stands for well-known seasoned issuer  
+ WORM stands for write once, read many  
+ ADF stands for Alternative Display Facility  
+ AICPA stands for American Institute of Certified Public Accountants  
+ APO stands for Army Post Office  
+ ACH stands for Automated Clearing House  
+ BOX stands for BOX Options Exchange LLC  
+ Cboe stands for Cboe Global Markets, Inc.  
+ CFPB stands for Consumer Financial Protection Bureau  
+ DJIA stands for Dow Jones Industrial Average  
+ DTC stands for Depository Trust Company  
+ DTCC stands for Depository Trust and Clearing Company  
+ FBI stands for Federal Bureau of Investigation  
+ FDIC stands for Federal Deposit Insurance Corporation  
+ FHLB stands for Federal Home Loan Bank  
+ FHLMC stands for Federal Home Loan Mortgage Corporation  
+ FASB stands for Financial Accounting Standards Board  
+ FSA stands for Financial Services Authority  
+ FinCEN stands for Financial Crimes Enforcement Network  
+ FINRA stands for Financial Industry Regulatory Authority  
+ TRF stands for FINRA/Nasdaq Trade Reporting Facility  
+ TRF stands for FINRA/NYSE Trade Reporting Facility  
+ FICC stands for Fixed Income Clearing Corporation  
+ Farmer Mac stands for Federal Agricultural Mortgage Corporation  
+ Freddie Mac stands for Federal Home Loan Mortgage Corporation  
+ FTC stands for Federal Trade Commission  
+ Fannie Mae stands for Federal National Mortgage Association  
+ GSCC stands for Government Securities Clearing Corporation  
+ Ginnie Mae stands for Government National Mortgage Association  
+ IOSCO stands for International Organization of Securities Commissions  
+ ISE stands for International Securities Exchange, Inc.  
+ IRS stands for Internal Revenue Service  
+ MSRB stands for Municipal Securities Rulemaking Board  
+ NAC stands for National Adjudicatory Council  
+ NASAA stands for North American Securities Administrators Association, Inc.  
+ NASD stands for National Association of Securities Dealers  
+ Nasdaq stands for Nasdaq  
+ NSCC stands for National Securities Clearing Corporation  
+ NYSE stands for New York Stock Exchange  
+ OFAC stands for Office of Foreign Asset Control  
+ OCC stands for Options Clearing Corporation  
+ OPRA stands for Options Price Reporting Authority  
+ ORF stands for OTC Reporting Facility  
+ PCAOB stands for Public Company Accounting Oversight Board  
+ SROCC stands for Self-Regulatory Organizations Consultative Committee  
+ Sallie Mae stands for SLM Corporation  
+ S&P stands for Standard & Poor’s  
+ SEC stands for U.S. Securities and Exchange Commission  
+ SIC stands for Securities Information Center  
+ STAMP stands for Securities Transfer Agents Medallion Program, Inc.  
+ SIPC stands for The Securities Investor Protection Corporation  
+ SLMA stands for Student Loan Marketing Association  
+ U.S. stands for United States  
+ U.K. stands for United Kingdom  
+ AR stands for assistant representative  
+ BOM stands for branch office manager  
+ BD stands for broker-dealer  
+ BDC stands for business development company  
+ CEO stands for chief executive officer  
+ CFP stands for certified financial planner  
+ CPA stands for certified public accountant  
+ CFA stands for chartered financial analyst  
+ CCO stands for chief compliance officer  
+ CFO stands for chief financial officer  
+ COO stands for chief operating officer  
+ DEA stands for designated examining authority  
+ DOEA stands for designated options examining authority  
+ DMM stands for designated market maker  
+ DPM stands for designated primary market maker  
+ EGC stands for emerging growth company  
+ non-EGC stands for non-emerging growth company  
+ FINOP stands for financial and operations principal  
+ LMM stands for lead market maker  
+ LLC stands for limited liability company  
+ MFP stands for municipal finance professional  
+ NOBO stands for non-objecting beneficial owner  
+ OBO stands for objecting beneficial owner  
+ OSJ stands for office of supervisory jurisdiction  
+ PAC stands for political action committee  
+ PEP stands for politically exposed person  
+ POA stands for power of attorney  
+ PST stands for private securities transaction  
+ QIU stands for qualified independent underwriter  
+ QIB stands for qualified institutional buyer  
+ QSR stands for qualified service representative  
+ RIA stands for registered investment advisor  
+ ROP stands for registered options principal  
+ RR stands for registered representative  
+ RA stands for research analyst  
+ SIP stands for securities information processors  
+ SRO stands for self-regulatory organization  
+ SMMP stands for sophisticated municipal market professional  
+ SPAC stands for special purpose acquisition company  
+ SME stands for subject matter expert  
+ SA stands for supervisory analyst  
+ BCP stands for business continuity plan  
+ AON stands for All-or-none  
+ ADR stands for American Depositary Receipt  
+ AAB stands for Approved as Budgeted  
+ AB stands for Assembly Bill  
+ ACA stands for Assembly Constitutional Amendment  
+ ACR stands for Assembly Concurrent Resolution  
+ ADA stands for Americans with Disabilities Act  
+ ADA stands for Average Daily Attendance  
+ ADM/EC/IT stands for Administration
+ EC stands for Employee Compensation
+ IT stands for Information Technology Unit
+ AE Positions stands for Administratively-established Positions  
+ AG stands for Attorney General  
+ AJR stands for Assembly Joint Resolution  
+ A-Pages stands for Another term used for the Governor’s Budget Summary document  
+ APBM stands for Assistant Program Budget Manager  
+ APMT stands for Assistant Program Manager Team  
+ ARF stands for Architectural Revolving Fund  
+ AWRTFY stands for Available Without Regard to Fiscal Year (“continuous appropriation”)  
+ BA stands for Budget Act  
+ BAA stands for Budget Administration Adjustment (also a BR or EO)  
+ BAG stands for Budget Analyst Guide  
+ BBA stands for Baseline Budget Adjustment  
+ BBL stands for Budget Bill Language  
+ BCP stands for Budget Change Proposal  
+ BF stands for Bond Funds  
+ BI or BIP stands for Business Intelligence Publisher (type of report in Hyperion)  
+ BL stands for Budget Letter  
+ BOS stands for Budget Operations Support Unit, Finance’s  
+ BR stands for Budget Request (in Hyperion)  
+ BR stands for Budget Revision  
+ BSO stands for Business Services Office, Finance’s  
+ BU stands for Business Unit  
+ BY stands for Budget Year  
+ CalHR stands for California Department of Human Resources  
+ CAP stands for Corrective Action Plan  
+ CAP stands for Cost Allocation Plan  
+ CAPOFF stands for Capitol Office  
+ CEA stands for Career Executive Assignment  
+ CCR stands for California Code of Regulations  
+ CDT stands for California Department of Technology  
+ CFR stands for Code of Federal Regulations  
+ CIAP stands for Changes in Authorized Positions (a display in the budget galley)  
+ CM stands for Cash Management Unit, Finance’s  
+ CMIA stands for Cash Management Improvement Act  
+ C/O stands for Carryover (of an appropriation balance)  
+ CO stands for Capital Outlay  
+ COA stands for Chart of Accounts  
+ COBBA stands for Capital Outlay Baseline Budget Adjustment  
+ COBCP stands for Capital Outlay Budget Change Proposal  
+ COCP stands for Capital Outlay Concept Paper  
+ COLA stands for Cost of Living Adjustment  
+ COOP stands for Continuity of Operations
+ COG stands for Continuity of Government  
+ COR stands for Corrections
+ GEN stands for General Government Unit, Finance’s  
+ CPB stands for Continuity Plan for Business  
+ CS stands for Control Section (of Budget Act)  
+ CSA stands for Central Service Agencies  
+ CSA stands for California State Auditor  
+ CSCRF stands for Central Service Cost Recovery Fund  
+ CSL stands for Current Service Level  
+ CSPS stands for California State Payroll System  
+ CY stands for Current Year  
+ DAA stands for Detail of Appropriations and Adjustments 
+ DBA stands for Detailed Budget Adjustments  
+ DGS stands for Department of General Services  
+ DOF stands for Department of Finance 
+ DRU stands for Demographic Research Unit, Finance’s  
+ EBR stands for Enrolled Bill Report  
+ ECP stands for Enrollment, Caseload, and Population  
+ ENY stands for Enactment Year 
+ EO stands for Executive Order  
+ ER stands for Economic Research Unit, Finance’s  
+ ESU stands for Education Systems Unit, Finance’s  
+ ETHLL stands for Energy, Transportation, Housing, Local Government, and Labor Unit, Finance’s  
+ FAWS stands for Financial Analysis Worksheets  
+ FBA stands for Finance Budget Analyst  
+ FBS stands for Final Budget Summary  
+ FCB stands for Final Change Book  
+ FCS stands for Fund Condition Statement  
+ FF stands for Federal Funds  
+ FFACT stands for Federal Funds Accountability and Cost Tracking Unit  
+ FFY stands for Federal Fiscal Year  
+ FI$Cal stands for Financial Information System for California  
+ FISCal stands for Department of FISCal  
+ FIW stands for Fiscal Impact Worksheet  
+ FL stands for Finance Letter  
+ FM stands for Finance Memo  
+ FO stands for Financial Operations Unit  
+ FPE stands for Finance Program Evaluator  
+ FR stands for Financial Reporting  
+ FSC stands for FI$Cal Service Center  
+ FSCU stands for Fiscal Systems Consulting Unit  
+ FTE stands for Full-Time Equivalent  
+ FY stands for Fiscal Year  
+ GAAP stands for Generally Accepted Accounting Principles  
+ GB stands for Governor’s Budget  
+ GC stands for Government Code  
+ GF stands for General Fund  
+ GFU stands for General Fund Update  
+ GOARs stands for Governor’s Office Action Requests  
+ GO Bonds stands for General Obligation Bonds  
+ HHS stands for Health and Human Services Unit  
+ HR stands for Human Resources  
+ ICRP stands for Indirect Cost Rate Proposal Plan  
+ IPOR stands for Independent Project Oversight Report  
+ IR stands for Investable Resources Unit  
+ IS stands for Information Services  
+ IT stands for Information Technology  
+ ITCU stands for Information Technology Consulting Unit  
+ IVV stands for Independent Verification and Validation  
+ JLBC stands for Joint Legislative Budget Committee  
+ LA stands for Local Assistance  
+ LAO stands for Legislative Analyst’s Office  
+ LCB stands for Legislative Counsel Bureau  
+ LDU stands for Learning and Development Unit  
+ LG stands for Local Government  
+ LIS stands for Legislative Information System  
+ LT stands for Limited Term  
+ MBR stands for Mission Based Review  
+ MCO stands for Minor Capital Outlay  
+ MIRS stands for Management Information Retrieval System  
+ MM stands for Management Memo  
+ MR stands for May Revision  
+ MSA stands for Merit Salary Adjustment  
+ MSF stands for Manual of State Funds  
+ NASBO stands for National Association of State Budget Officers  
+ NGCF stands for Non-Governmental Cost Fund  
+ OAU stands for Oversight and Accountability Unit  
+ OCIO stands for Office of the Chief Information Officer  
+ OE&E stands for Operating Expenses and Equipment  
+ OPEB stands for Other Post-Employment Benefits  
+ ORF stands for Office Revolving Fund  
+ OSAE stands for Office of State Audits and Evaluations  
+ OSP stands for Office of State Publishing  
+ OST stands for Out-of-State Travel  
+ P98 stands for Proposition 98  
+ PAL stands for Project Approval Lifecycle  
+ PBM stands for Program Budget Manager  
+ PDR stands for Project Delegation Request  
+ PE stands for Preliminary Estimates  
+ PFA stands for Plan of Financial Adjustment  
+ PIER stands for Post Implementation Evaluation Report  
+ PIT stands for Personal Income Tax  
+ PMIA stands for Pooled Money Investment Account  
+ PMIB stands for Pooled Money Investment Board  
+ PORC stands for Projects of Regional Concern  
+ PPBA stands for Principal Program Budget Analyst  
+ PRA stands for Public Records Act  
+ PSR stands for Project Status Report  
+ PWB stands for Public Works Board  
+ PY stands for Past Year  
+ PY stands for Personnel Year  
+ RANs stands for Revenue Anticipation Notes  
+ RAU stands for Research and Analysis Unit  
+ RWAs stands for Revenue Anticipation Warrants  
+ RECO stands for Natural Resources, Environment, and Capital Outlay Unit  
+ Regs stands for Regulations  
+ RFP stands for Request for Proposal  
+ RTL stands for Revenues, Transfers, and Loans  
+ RTU stands for Revenue and Taxation Unit  
+ SAL stands for State Appropriation Limit  
+ SAM stands for State Administrative Manual  
+ SB stands for Senate Bill  
+ SBFR stands for Senate Budget and Fiscal Review Committee  
+ SCA stands for Senate Constitutional Amendment  
+ SCR stands for Senate Concurrent Resolution  
+ SCO stands for State Controller’s Office  
+ SF stands for Special Fund  
+ SFBA stands for Staff Finance Budget Analyst  
+ SFEU stands for Special Fund for Economic Uncertainties  
+ SLAA stands for State Leadership Accountability Act  
+ SMIF stands for Surplus Money Investment Fund  
+ SO stands for State Operations  
+ SPB stands for State Personnel Board  
+ SPP stands for Savings Plus Program  
+ SPP stands for Supplemental Pension Payment  
+ SPR stands for Special Project Report  
+ SRL stands for Supplemental Reporting Language  
+ STO stands for State Treasurer’s Office  
+ S&W stands for Salary and Wages
+ 7A stands for Salary and Wages  
+ SWCAP stands for Statewide Cost Allocation Plan  
+ S1BA stands for Stage 1 Business Analysis  
+ S2AA stands for Stage 2 Alternative Analysis  
+ S3SD stands for Stage 3 Solution Development  
+ S4PRA stands for Stage 4 Project Readiness and Approval  
+ TBL stands for Trailer Bill Language  
+ UCM stands for Uniform Codes Manual  
+ YOA stands for Year of Appropriation  
+ YOB stands for Year of Budget  
+ YOC stands for Year of Completion  
+ A stands for constant loan payment  
+ AE stands for annuity equivalent  
+ AIS stands for accrual income statement  
+ AL stands for accrued liabilities  
+ AP stands for accounts payable  
+ APR stands for annual percentage rate  
+ AR stands for accounts receivable  
+ ATCF stands for after-tax cash flow  
+ AVG stands for attachment value goods  
+ CA stands for current assets  
+ CE stands for cash expenses  
+ CFS stands for coordinated financial statements  
+ CL stands for current liabilities  
+ COGS stands for cost of goods sold  
+ CPI stands for consumer price index  
+ CR stands for cash receipts  
+ D stands for debt  
+ Dep stands for depreciation  
+ E stands for equity  
+ EBIT stands for earnings before interest and taxes  
+ EBT stands for earnings before taxes  
+ EV stands for expected value-variance  
+ FTC stands for Federal Trade Commission  
+ FV stands for future values  
+ g stands for nominal growth rate  
+ g* stands for real growth rate  
+ GAAP stands for generally accepted accounting practices  
+ i stands for average interest rate  
+ INV stands for inventories  
+ IRR stands for internal rate of return  
+ IRRA stands for internal rate of return on Assets  
+ IRRE stands for internal rate of return on Equity  
+ IRS stands for Internal Revenue Service  
+ L stands for loan amount  
+ LLC stands for Limited Liability Company  
+ m stands for profit margin  
+ MACRS stands for modified accelerated cost recovery system  
+ MIRR stands for modified IRR  
+ mn stands for term  
+ MNPV stands for modified NPV  
+ NIAT stands for net income after taxes  
+ NPC stands for net present cost  
+ NPV stands for net present value  
+ NPVA stands for NPV for asset earnings  
+ NPVE stands for NPV for equity earnings  
+ NWC stands for net working capital  
+ OE stands for overhead expense  
+ p stands for percent of loan to be paid as a refinance cost  
+ PV stands for present value  
+ QTM stands for quantity theory of money  
+ r stands for nominal discount rate  
+ rf stands for APR  
+ rm stands for market rate of interest  
+ r* stands for real discount rate  
+ R stands for constant value of net cash flow, constant value of cash deposits  
+ RCG stands for Realized Capital Gains  
+ ROA stands for return on assets  
+ ROE stands for return on equity  
+ ROI stands for return on investment  
+ S stands for units sold, liquidation value, sum of compounded periodic cash flows, standard deviation from a sample distribution  
+ SCF stands for statement of cash flow  
+ SEC stands for Securities and Exchange Commission  
+ SEG stands for socio-emotional goods  
+ T stands for tax  
+ TI stands for total interest  
+ V0 stands for initial value  
+ W stands for firm’s wealth value  
+ w stands for outcome variable  
+ WCC stands for Weighted Cost of Capital  
+ y stands for outcome variable  
+ FV stands for future value  
+ IPMT stands for interest payment  
+ IRR stands for internal rate of return  
+ NPER stands for number of periods  
+ NPV stands for net present value  
+ PMT stands for period payment  
+ PV stands for present value  
+ RATE stands for rate  
+ ATO stands for asset turnover ratio  
+ ATOT stands for asset turnover time ratio  
+ C stands for coverage ratio  
+ CT stands for current ratio  
+ CTR stands for current-to-total returns ratio  
+ DE stands for debt-to-equity ratio  
+ DS stands for debt-to-service ratio  
+ EM stands for equity multiplier ratio  
+ ITO stands for inventory turnover ratio  
+ ITOT stands for inventory turnover time ratio  
+ PE stands for price-to-earnings ratio  
+ PTO stands for payable turnover ratio  
+ PTOT stands for payable turnover time ratio  
+ QK stands for quick ratio  
+ RTO stands for receivable turnover ratio  
+ RTOT stands for receivable turnover time ratio  
+ SPELL stands for solvency, profitability, efficiency, liquidity, leverage  
+ TIE stands for times interest earned ratio  
+ ACH stands for Automated Clearing House  
+ AIR stands for Assumed Interest Rate  
+ APR stands for Annual Percentage Rate  
+ APT stands for Asset Protection Trust  
+ APY stands for Annual Percentage Yield  
+ ARM stands for Adjustable Rate Mortgage  
+ ATM stands for Automated Teller Machine  
+ ATR stands for Ability to Repay  
+ CD stands for Certificate of Deposit  
+ DDA stands for Demand Deposit Account  
+ DTI stands for Debt-to-Income  
+ EFT stands for Electronic Funds Transfer  
+ ETF stands for Exchange Traded Funds  
+ FDIC stands for Federal Deposit Insurance Corporation  
+ FED stands for Federal Reserve Bank  
+ FOREX stands for Foreign Exchange  
+ FRB stands for Federal Reserve Board  
+ HELOC stands for Home Equity Line of Credit  
+ HPML stands for High Priced Mortgage Loan  
+ IRA stands for Individual Retirement Account  
+ LOI stands for Letter Of Intent  
+ PIN stands for Personal Identification Number  
+ MBS stands for Mortgage-Backed Securities  
+ NSF stands for Non-Sufficient Funds  
+ AFS stands for Annual Financial Statement  
+ BCP stands for Business Continuity Plan  
+ CAPEX stands for Capital Expenditures  
+ CF stands for Company Finance  
+ COB stands for Close of Business  
+ CRR stands for Cash Reserve Ratio  
+ EPS stands for Earnings Per Share  
+ FIFO stands for First In, First Out  
+ LIFO stands for Last In, First Out  
+ LLC stands for Limited Liability Company  
+ MTD stands for Month-to-Date  
+ NAV stands for Net Asset Value  
+ NCND stands for Non-Circumvention and Non-Disclosure  
+ NDA stands for Non-Disclosure Agreement  
+ NOL stands for Net Operating Loss  
+ NPO stands for Non-Profit Organization  
+ P&L stands for Profit and Loss  
+ P/E stands for Price-to-Earnings ratio  
+ PSP stands for Profit Sharing Plan  
+ QTD stands for Quarter-to-Date  
+ ROA stands for Return on Assets  
+ ROCE stands for Return On Capital Employed  
+ RONA stands for Return on Net Assets  
+ ROS stands for Return on Sales  
+ WC stands for Working capital  
+ YTD stands for Year-to-date  
+ AGI stands for Adjusted Gross Income  
+ AMT stands for Alternate Minimum Tax  
+ BTA stands for Board of Tax Appeals  
+ CIT stands for Corporate Income Tax  
+ CGT stands for Capital Gains Tax  
+ CTC stands for Child Tax Credit  
+ EIN stands for Employee Identification Number  
+ EIC stands for Earned Income Credit  
+ EITC stands for Earned Income Tax Credit  
+ FICA stands for Federal Insurance Contributions Act  
+ HSA stands for Health Savings Account  
+ IRA stands for Individual Retirement Account  
+ ITC stands for Investment Tax Credit  
+ IRS stands for Internal Revenue System  
+ MAGI stands for Modified Adjusted Gross Income  
+ NWT stands for Net Wealth Tax  
+ PIT stands for Personal Income Tax  
+ VAT stands for Value Added Tax  
+ WHT stands for Withholding Tax  
+
+ ADTV stands for Average Daily Trading Volume  
+ AMEX stands for American Stock Exchange  
+ CAGR stands for Compound annual growth rate  
+ CB stands for Current Bid  
+ CMP stands for Current Market Price  
+ DJIA stands for Dow Jones Industrial Average  
+ IPO stands for Initial Public Offering  
+ MMKT stands for Money Market  
+ NASDAQ stands for National Association of Securities Dealers Automated Quotation  
+ NYSE stands for New York Stock Exchange  
+ PFD stands for Preferred stock  
+ REIT stands for Real Estate Investment Trust  
+ ROE stands for Return on Equity  
+ ROI stands for Return on Investment  
+ ROIC stands for Return on Invested Capital  
+ QTE stands for Quote  
+ SEC stands for Securities Exchange Commission  
+ SIV stands for Structured Investment Vehicle  
+ TSA stands for Tax-Sheltered Annuity  
+ TSR stands for Total Shareholder Return  
+ YTM stands for Yield To Maturity  
+ CAO stands for Chief Accounting Officer  
+ CFA stands for Chartered Financial Analyst  
+ CFM stands for Certified Financial Manager  
+ CFO stands for Chief Financial Officer  
+ CFP stands for Certified Financial Planner  
+ CIA stands for Certified Internal Auditor  
+ CIMA stands for Certified Investment Management Analyst  
+ CISA stands for Certified Information Systems Auditor  
+ CMA stands for Certified Management Accountant  
+ CMO stands for Chief Marketing Officer  
+ COO stands for Chief Operating Officer  
+ CPA stands for Certified Public Accountant  
+ CPP stands for Certified Payroll Professional  
+ CSO stands for Chief Security Officer  
+ CTO stands for Chief Technology Officer  
+ RIA stands for Registered Investment Advisor  
+ ACF stands for AutoCorrelation Function  
+ AD stands for Authorised Dealer  
+ ADB stands for Asian Development Bank  
+ ADR stands for American Depository Receipt  
+ AFS stands for Annual Financial Statement  
+ AIRCSC stands for All India Rural Credit Survey Committee  
+ ASSOCHAM stands for Associated Chambers of Commerce and Industry of India  
+ BIS stands for Bank for International Settlements  
+ BoP stands for Balance of Payments  
+ BSCS stands for Basel Committee of Banking Supervision  
+ BSR stands for Basic Statistical Returns  
+ CAD stands for Capital Account Deficit  
+ CAG stands for Controller and Auditor General of India  
+ CC stands for Cash Credit  
+ CD stands for Certificate of Deposit  
+ CR Ratio stands for Credit Deposit Ratio  
+ CF stands for Company Finance  
+ CFRA stands for Combined Finance and Revenue Accounts  
+ CGRA stands for Currency and Gold Revaluation Account  
+ CII stands for Confederation of Indian Industry  
+ CO stands for Capital Outlay  
+ CP stands for Commercial Paper  
+ CPI stands for Consumer Price Index  
+ CR stands for Capital Receipts  
+ CRAR stands for Capital to Risk-Weighted Asset Ratio  
+ CRR stands for Cash Reserve Ratio  
+ CVC stands for Central Vigilance Commission  
+ DBOD stands for Department of Banking Operations and Development  
+ DCB stands for Demand Collection and Balance  
+ DCCB stands for District Central Co-operative Bank  
+ DCM, RBI stands for Department of Currency Management, RBI  
+ DD stands for Demand Draft  
+ DEIO stands for Department of External Investments and Operations  
+ DGCI&S stands for Directorate General of Commercial Intelligence and Statistics  
+ DI stands for Direct Investments  
+ DICGC stands for Deposit Insurance and Credit Guarantee Corporation of India  
+ DID stands for Discharge of Internal Debt  
+ DMA stands for Departmentalized Ministries Account  
+ DRI stands for Differential Rate of Interest Scheme  
+ DSBB stands for Dissemination Standards Bulletin Board  
+ DVP stands for Delivery Versus Payment  
+ ECB stands for External Commercial Borrowing  
+ ECB stands for European Central Bank  
+ ECGC stands for Export Credit and Guarantee Corporation  
+ ECS stands for Electronic Clearing Scheme  
+ EDMU stands for External Debt Management Unit  
+ EEA stands for Exchange Equalization Account  
+ EEC stands for European Economic Community  
+ EEFC stands for Exchange Earners Foreign Currency  
+ EFR stands for Exchange Fluctuation Reserve  
+ EXIM Bank stands for Export Import Bank of India  
+ FCA stands for Foreign Currency Assets  
+ FCCB stands for Foreign Currency Convertible Bond  
+ FCNRB(B) stands for Foreign Currency Non-resident (Banks)  
+ FCNRA stands for Foreign Currency Non Resident Account  
+ FCNRD stands for Foreign Currency Non Repatriable Deposit  
+ FDI stands for Foreign Direct Investment  
+ FEMA stands for Foreign Exchange Management Act  
+ FI stands for Financial Institution  
+ FICCI stands for Federation of Indian Chambers of Commerce and Industry  
+ FII stands for Foreign Institutional Investor  
+ FIMMDA stands for Fixed Income Money Market and Derivatives Association of India  
+ FISIM stands for Financial Intermediation Services Indirectly Measured  
+ FLAS stands for Foreign Liabilities and Assets Survey  
+ FOF stands for Flow of Funds  
+ FPI stands for Foreign Portfolio Investment  
+ FRA stands for Forward Rate Agreement  
+ FRN stands for Floating Rate Note  
+ GDP stands for Gross Domestic Product  
+ GDR stands for Global Depository Receipt  
+ G-Sec stands for Government Securities  
+ IBRD stands for International Bank for Reconstruction and Development  
+ IDRBT stands for Institute for Development and Research in Banking Technology  
+ IEPF stands for Investors Education and Protection Fund  
+ IFSC stands for Indian Financial System Code  
+ IFC stands for Indian Financial Corporation  
+ IFCI stands for Industrial Finance Corporation of India  
+ IIBF stands for International Institute of Banking and Finance  
+ IIBI stands for Industrial Investment Bank of India  
+ IFC stands for International Finance Corporation  
+ IFR stands for Investment Fluctuation Reserve  
+ IIP stands for Index of Industrial Production  
+ IMF stands for International Monetary Fund  
+ IP stands for Interest Payment  
+ ISDA stands for International Swaps and Derivative Association  
+ ISO stands for International Standards Organisation  
+ KYC stands for Know Your Customer  
+ KVP stands for Kisan Vikas Patra  
+ KVIC stands for Khadi and Village Industries Corporation  
+ LAF stands for Liquidity Adjustment Facility  
+ LAS stands for Loans and Advances by States  
+ LDB stands for Land Development Bank  
+ LERMS stands for Liberalised Exchange Rate Management System  
+ M1 stands for Narrow Money  
+ M3 stands for Broad Money  
+ MA stands for Moving Average  
+ MCA stands for Ministry of Corporate Affairs  
+ MIGA stands for Multilateral Investment Guarantee Agency  
+ MSS stands for Market Stabilisation Scheme  
+ NABARD stands for National Bank for Agriculture and Rural Development  
+ NBFC stands for Non Banking Financial Companies  
+ NEC stands for Not Elsewhere Classified  
+ NEER stands for Nominal Effective Exchange Rate  
+ NFA stands for Non Foreign Exchange Assets  
+ NFD stands for Net Fiscal Deficit  
+ NHB stands for National Housing Bank  
+ NIF stands for Note Issuance Facility  
+ NPA stands for Non Performing Assets  
+ NPV stands for Net Present Value  
+ NSSF stands for National Small Savings Fund  
+ OD stands for Overdraft  
+ OECD stands for Organisation for Economic Cooperation and Development  
+ OLTAS stands for Online Tax Accounting System  
+ PACS stands for Primary Agricultural Credit Societies  
+ PD stands for Primary Deficit  
+ RD stands for Revenue Deficit  
+ RE stands for Revenue Expenditure  
+ REER stands for Real Effective Exchange Rate  
+ RIB stands for Resurgent India Bonds  
+ RLA stands for Recoveries of Loans and Advancements  
+ RTC stands for Repayment of Loans to Centre  
+ RoC’s stands for Registrars of Companies  
+ RR stands for Revenue Receipts  
+ RRB stands for Regional Rural Bank  
+ RTP stands for Reserve Tranche Position  
+ RUF stands for Revolving Underwriting Facility  
+ RWA stands for Risk Weighted Asset  
+ SCARDB stands for State Co-operative Agriculture and Rural Development Bank  
+ SCB stands for State Co-operative Bank  
+ SCB stands for Scheduled Commercial Bank  
+ SDDS stands for Special Data Dissemination Standards  
+ SDR stands for Special Drawing Right  
+ SEBI stands for Securities Exchange Board of India  
+ SFC stands for State Financial Corporation  
+ SIDBI stands for Small Industries Development Bank of India  
+ SIDC stands for State Industrial Development Corporation  
+ SLR stands for Statutory Liquidity Ratio  
+ SMG stands for Standing Monitoring Group  
+ SNA stands for System of National Accounts  
+ TB’s stands for Treasury Bills  
+ TC stands for Temporary Change  
+ TT stands for Telegraphic Transfer  
+ UCN stands for Uniform Code Number  
+ UTI stands for Unit Trust of India  
+ WPI stands for Wholesale Price Index  
+ YTM stands for Yield to Maturity
+ BPL stands for Below Poverty Line, British Physical Laboratories Group  
+ CA stands for Chartered Accountant  
+ CAG stands for Comptroller and Auditor General of India  
+ COB stands for Close of Business  
+ CST stands for Central Sales Tax, Chhatrapati Shivaji Terminus, Central Standard Time  
+ CTS stands for Cheque Truncation System, Clear to Send  
+ CRR stands for Cash Reserve Ratio  
+ ECC stands for Excise Control Code  
+ EMI stands for Equated Monthly Installment  
+ EOD stands for End of the Day  
+ FEMA stands for Foreign Exchange Management Act  
+ FDI stands for Foreign Direct Investment  
+ GDP stands for Gross Domestic Product  
+ GST stands for Goods and Service Tax  
+ HDFC stands for Housing Development Finance Corporation  
+ HSBC stands for Hong Kong and Shanghai Banking Corporation  
+ IT stands for Information Technology ↦ Income Tax  
+ IPO stands for Initial Public Offering  
+ KYC stands for Know Your Customer  
+ MICR stands for Magnetic Ink Character Recognition  
+ NPA stands for Non Performing Assets  
+ NIFTY stands for National Stack Exchange Fifty  
+ SENSEX stands for Stock Exchange Sensitive Index  
+ NASDAQ stands for National Association of Securities Dealers Automated Quotations  
+ PSI stands for Pound per Square Inch  
+ SKU stands for Stock Keeping Unit  
+ SIP stands for Systematic Investment Plan  
+ SLA stands for Service Level Agreement  
+ TA&DA stands for Travelling Allowance & Dearness Allowance  
+ TAN stands for Ticket Deposit Receipt, Term Deposit Receipt & Time Domain Reflectometer  
+ TDR stands for Tax Deduction and Collection Account Number  
+ TIN stands for Taxpayer Identification Number  
+ VAT stands for Value Added Tax  
+ AACS stands for As Applicable to Cooperative Societies  
+ ABS stands for Asset Backed Securities  
+ ACH stands for Automatic Clearing House  
+ ACU stands for Asian Clearing Union  
+ AD stands for Authorised Dealer  
+ ADR stands for Asset Development Reserve  
+ AEBC stands for American Express Banking Corporation  
+ AEBL stands for American Express Bank Limited  
+ AFC stands for Asset Finance Companies  
+ AFI stands for Annual Financial Inspection  
+ AFS stands for Available For Sale  
+ AICCCA stands for Association of Independent Consumer Credit Counselling Agencies  
+ AIFIs stands for All India Financial Institutions  
+ ALD stands for Aggregate Liability to Depositors  
+ ALM stands for Asset Liability Management  
+ AMA stands for Asset Liability Management  
+ AMC stands for Asset Management Company  
+ AML stands for Anti Money Laundering  
+ ANBC stands for Adjusted Net Bank Credit  
+ APG stands for Asia Pacific Group  
+ APRACA stands for Asia Pacific Regional Agricultural Credit Association  
+ APRs stands for Annual Performance Reports  
+ ARC stands for Asset Reconstruction Company  
+ ARCIL stands for Asset Reconstruction Company (India) Ltd.  
+ AS stands for Accounting Standard  
+ ASEAN stands for Association of South East Asian Nations  
+ ASIC stands for Australian Securities & Investment Commission  
+ ASSOCHAM stands for The Associated Chambers of Commerce and Industry of India  
+ ATM stands for Automated Teller Machine  
+ UBB stands for Uniform Balance Book  
+ UBD stands for Urban Banks Department  
+ UCB stands for Urban Cooperative Bank  
+ UCC stands for Unsolicited Commercial Communication  
+ UIA stands for United India Assurance Company Ltd.  
+ UID stands for Unique Identity  
+ UIN stands for Unique Identification Number  
+ UTI stands for Unit Trust of India  
+ UTLBC stands for Union Territory Level Bankers’  
+ BC stands for Business Correspondent  
+ BCBS stands for Basel Committee on Banking Supervision  
+ BCP stands for Business Continuity Planning Process  
+ BCP stands for Basel Core Principles  
+ BCSBI stands for Banking Codes and Standards Board of India  
+ BF stands for Business Facilitator  
+ BFS stands for Board for Financial Supervision  
+ BIA stands for Basic Indicator Approach  
+ BIFR stands for Board  
+ BIS stands for Bank for International Settlements  
+ BLA stands for Bond Ledger Account  
+ BO stands for Banking Ombudsman  
+ BoP stands for Balance of Payments  
+ BOS stands for Banking Ombudsman Scheme  
+ BPLR stands for Benchmark Prime Lending Rate  
+ BPO stands for Business Process Outsourcing  
+ BPSS stands for Board for Regulation and Supervision of Payment and Settlement Systems  
+ BRBNMPL stands for Bharatiya Reserve Bank Note Mudran Private Limited  
+ BSE stands for Bombay Stock Exchange  
+ BSC stands for Balanced Scorecard  
+ BSR stands for Basic Statistical Return  
+ BWA stands for Broadband Wireless Access  
+ CA stands for Concurrent Audit
+ CAB stands for College of Agricultural Banking
+ CAFL stands for Center for Advanced Financial Learning
+ CALCS stands for Capital Adequacy, Asset Quality, Liquidity, Compliance and System
+ CAMELS stands for Capital Adequacy, Asset Quality, Management, Earnings, Liquidity, Systems and Control
+ CAR stands for Capacity Assessment Rating
+ CAS stands for Central Account Section
+ CAS stands for Common Accounting System
+ CASA stands for Current & Saving Accounts
+ CBLO stands for Collateralised Borrowing and Lending Obligation
+ CBS stands for Core Banking Solution
+ CBS stands for Corporate Bond Spreads
+ CCCS stands for Consumer Credit Counselling Service
+ CCDM stands for Credit Counselling and Debt Management
+ CCF stands for Credit Conversion Factors
+ CCIL stands for Clearing Corporation of India Ltd.
+ CCP stands for Central Counter Party
+ CCP stands for Cheque Clearing Policy
+ CCR stands for Counterfeit Currency Report
+ CCs stands for Currency Chests
+ CCTV stands for Closed Circuit Television
+ CDs stands for Certificates of Deposit
+ CD stands for Certificate of Deposit
+ CDBS stands for Currency Disintegration and Briquetting System
+ CDBS stands for Committee of Direction on Banking Statistics
+ CDBMS stands for Currency Disintegration and Briquetting System
+ CDF stands for Cooperative Development Fund
+ CDO stands for Collateral Debt Obligations
+ CDR stands for Corporate Debt Restructuring
+ CDRM stands for Credit Counselling and Debt Management
+ CDS stands for Credit Default Swaps
+ CEM stands for Current Exposure Method
+ CEO stands for Chief Executive Officer
+ CEOBSE stands for Credit Equivalent Amount Off-Balance Sheet Exposure
+ CFC stands for Customer Facilitation Centre
+ CFCAC stands for Committee on Fuller Capital Account Convertibility
+ CFMS stands for Centralised Funds Management System
+ CFS stands for Consolidated Financial Statements
+ CFSA stands for Committee on Financial Sector Assessment
+ CFSP stands for Committee on Financial Sector Plan
+ D&B stands for Dun & Bradstreet Information Services India (P) Ltd.
+ DAD stands for Deposit Accounts Department
+ DAPM stands for Department of Administration and Personnel Management
+ DAPs stands for Development Action Plans
+ DARPG stands for Department of Administrative Reforms and Public Grievances
+ DBIE stands for Database on Indian Economy
+ DBOD stands for Department of Banking Operations and Development
+ DBS stands for Department of Banking Supervision
+ DCC stands for District Consultative Committee
+ DCC stands for District Coordination Committee
+ DCCB stands for District Central Cooperative Bank
+ DCM stands for Department of Currency Management
+ DCRR stands for Department for Cooperative Revival and Reforms
+ DEAP stands for Department of Economic Analysis and Policy
+ DEBC stands for Department of Expenditure and Budgetary Control
+ DEIO stands for Department of External Investments and Operations
+ DER stands for Debt Equity Ratio
+ DFI stands for Development Finance Institution
+ DGBA stands for Department of Government and Bank Accounts
+ DICGC stands for Deposit Insurance and Credit Guarantee Corporation
+ DIT stands for Department of Information Technology
+ DLIC stands for District Level Implementation Committee
+ DLIC stands for District Level Implementation and Monitoring Committee
+ DMA stands for Direct Marketing Agent
+ DMIS stands for Document Management Information System
+ DNBS stands for Department of Non-Banking Supervision
+ DNSS stands for Deferred Net Settlement Systems
+ DOC stands for Department of Communication
+ DOT stands for Department of Telecommunications
+ DPSS stands for Department of Payment and Settlement Systems
+ DR stands for Disaster Recovery
+ DRI stands for Differential Rate of Interest
+ DRG stands for Development Research Group
+ DRIP stands for District Rural Industries Project
+ DRT stands for Debt Recovery Tribunal
+ DSA stands for Direct Sales Agent
+ DSIM stands for Department of Statistics and Information Management
+ DTA stands for Deferred Tax Asset
+ DTC stands for Direct Tax Code
+ DTL stands for Demand and Time Liability
+ DTL stands for Deferred Tax Liability
+ DvP stands for Delivery versus Payment
+ EaR stands for Earnings at Risk
+ EBR stands for Export Bills Rediscounted
+ EBT stands for Electronic Benefit Transfer
+ ECB stands for External Commercial Borrowing
+ ECGC stands for Export Credit Guarantee Corporation
+ ECM stands for Economic Capital Model
+ ECR stands for Export Credit Refinance
+ ECS stands for Electronic Clearing Services
+ EEA stands for Exchange Equalisation Account
+ EEFC stands for Exchange Earners’ Foreign Currency
+ EFT stands for Electronic Fund Transfer
+ EKP stands for Enterprise Knowledge Portal
+ EME stands for Emerging Market Economy
+ EMEs stands for Emerging Market Economies
+ EMS stands for Estate Management System
+ EoI stands for Expression on Interest
+ EPCG stands for Export Promotion Capital Goods
+ ESOP stands for Employee Stock Option Plans
+ ESRB stands for European Systemic Risk Board
+ ETF stands for Empowered Task Force
+ EWS stands for Early Warning System
+ EXIM Bank stands for Export Import Bank of India
+ FATF stands for Financial Action Task Force
+ FAQs stands for Frequently Asked Questions
+ FBT stands for Fringe Benefit Tax
+ FCs stands for Financial Conglomerates
+ FC stands for Financial Conglomerates
+ FCA stands for Foreign Currency Asset
+ FCAC stands for Fuller Capital Account Convertibility
+ FCCB stands for Foreign Currency Convertible Bond
+ FCL stands for Flexible Credit Line
+ FCNR stands for Foreign Currency Non-Resident
+ FCNR stands for Foreign Currency Non-Resident (Banks)
+ FCI stands for Food Corporation of India
+ FDI stands for Foreign Direct Investment
+ FDIC stands for Federal Deposit Insurance Corporation
+ FEDAI stands for Foreign Exchange Dealers' Association of India
+ FEMA stands for Foreign Exchange Management Act
+ FFI stands for Foreign Financial Institution
+ FFMC stands for Full Fledge Money Changer
+ FI stands for Financial Institution
+ FICCI stands for Federation of Indian Chambers of Commerce and Industry
+ FIEO stands for Federation of Indian Export Organisations
+ FIF stands for Financial Inclusion Fund
+ FII stands for Foreign Institutional Investor
+ FIMMDA stands for Fixed Income Money Market and Derivatives Association of India
+ FINO stands for Financial Information Network and Operations
+ FIP stands for Financial Inclusion Plan
+ FIPB stands for Foreign Investment Promotion Board
+ FIR stands for First Information Report
+ FIRC stands for First International Research Conference
+ FITF stands for Financial Inclusion Technology Fund
+ FITL stands for Funded Interest Term Loan
+ FIU-IND stands for Financial Intelligence Unit - India
+ FLCCs stands for Financial Literacy and Credit Counseling Centres
+ FLCC stands for Financial Literacy and Credit Counselling Centres
+ FMC stands for Financial Markets Committee
+ FMD stands for Financial Markets Department
+ FMS stands for Focus Market Scheme
+ FPS stands for Focus Product Scheme
+ FRA stands for Forward Rate Agreement
+ FRAs stands for Forward Rate Agreements
+ FRB stands for Floating Rate Bond
+ FRBs stands for Floating Rate Bonds
+ FRBM stands for Fiscal Responsibility and Budget Management
+ FRLs stands for Fiscal Responsibility Laws
+ FRMS stands for Fraud Reporting and Monitoring System
+ FSA stands for Financial Service Authority
+ FSAP stands for Financial Sector Assessment Programme
+ FSB stands for Financial Stability Board
+ FSDC stands for Financial Stability Development Council
+ FSF stands for Financial Stability Forum
+ FSI stands for Financial Soundness Indicator
+ FSR stands for Financial Stability Report
+ FSS stands for Farmers' Service Societies
+ FST stands for Financial Sector Technology
+ FSU stands for Financial Stability Unit
+ FVA stands for Fair Value Accounting
+ G 20 stands for Group of Twenty
+ GAAP stands for Generally Acceptable Accounting Principles
+ GB stands for Gramin Bank
+ GCC stands for General Credit Card
+ GCCs stands for General-purpose Credit Cards
+ GCS stands for Gold Card Scheme
+ GDCF stands for Gross Domestic Capital Formation
+ GDP stands for Gross Domestic Product
+ GDR stands for Global Depository Receipt
+ GFCF stands for Gross Fixed Capital Formation
+ GFD stands for Gross Fiscal Deficit
+ GIC stands for General Insurance Corporation of India
+ GLC stands for General Lines of Credit
+ GMRA stands for Global Master Repo Agreement
+ HAPAs stands for High Access Precautionary Access
+ HFC stands for Housing Finance Companies
+ HFT stands for Held for Trading
+ HLC stands for High Level Committee
+ HP stands for Hodrick Prescott
+ HRDD stands for Human Resources Development Department
+ HRMS stands for Human Resources Management System
+ HTM stands for Held to Maturity
+ HVC stands for High Value Clearing
+ IADI stands for International Association of Deposit Insurers
+ IAIS stands for International Association of Insurance Supervisors
+ IAS stands for Integrated Accounting System
+ IASB stands for International Accounting Standard Board
+ IASs stands for Indian Accounting Standards
+ IBA stands for Indian Banks Association
+ IBPC stands for Inter-Bank Participation Certificates
+ IBS stands for International Banking Statistics
+ ICAAP stands for Internal Capital Adequacy Assessment Process
+ ICAI stands for Institute of Chartered Accountants of India
+ I-CAT stands for Institutional Capacity Assessment Tool
+ ICCL stands for Indian Clearing Corporation Limited
+ ICCOMS stands for Integrated Computerised Currency Operations and Management Systems
+ ICD stands for Inter Corporate Deposits
+ ICOR stands for Incremental Capital Output Ratio
+ ICT stands for Information and Communication Technology
+ IDBI stands for Industrial Development Bank of India
+ IDFC stands for Infrastructure Development Finance Company
+ IDL stands for Intra-Day Liquidity
+ IDMD stands for Internal Debt Management Department
+ IDR stands for Indian Depository Receipt
+ IDRBT stands for Institute for Development and Research in Banking Technology
+ IES stands for Integrated Establishment System
+ IFCI stands for Industrial Finance Corporation of India Ltd.
+ IFCs stands for Infrastructure Finance Companies
+ IFSC stands for Indian Financial System Code
+ IFR stands for Investment Fluctuation Reserve
+ IFRSs stands for International Financial Reporting Standards
+ IGIDR stands for Indira Gandhi Institute of Development Research
+ IIBI stands for Industrial Investment Bank of India
+ IIBM stands for Indian Institute of Bank Management
+ IIFCL stands for India Infrastructure Finance Company Limited
+ IIP stands for Index of Industrial Production
+ ILO stands for International Labour Organisation
+ IMA stands for Internal Models Approach
+ IMD stands for India Millennium Deposit
+ IMF stands for International Monetary Fund
+ IMGC stands for Indian Mortgage Guarantee Company
+ INFINET stands for Indian Financial Network
+ IOs stands for Inspecting Officers
+ IOSCO stands for International Organisation of Securities Commissions
+ IPA stands for Issuing and Payment Agent
+ IPC stands for Irrevocable Payment Commitments
+ IPDI stands for Innovative Perpetual Debt Instrument
+ IPO stands for Initial Public Offering
+ IRA stands for Investment Revaluation Account
+ IRAC stands for Income Recognition and Asset Classification
+ IRB stands for Internal-Ratings Based
+ IRDA stands for Insurance Regulatory and Development Authority
+ IRDP stands for Integrated Rural Development Programme
+ IRF stands for Interest Rate Future
+ IRS stands for Interest Rate Swaps
+ IS stands for Information Systems
+ ISO stands for International Organisation for Standardisation
+ IT stands for Information Technology
+ ITES stands for Intra-Group Transactions and Exposures
+ ITGGSM stands for Internal Technical Group on Government Securities Market
+ ITGI stands for IT Governance Institute
+ ITIL stands for Information Technology Infrastructure Library
+ IVRS stands for Interactive Voice Response System
+ IWG stands for Internal Working Group
+ JLG stands for Joint Liability Group
+ JPC stands for Joint Parliamentary Committee
+ KCC stands for Kisan Credit Card
+ KCCs stands for Kisan Credit Cards
+ KLEMS stands for Capital, Labour, Energy, Material and Services
+ KVIB stands for Khadi and Village Industries Board
+ KVIC stands for Khadi and Village Industries Commission
+ KYC stands for Know Your Customer
+ LAB stands for Local Area Bank
+ LAF stands for Liquidity Adjustment Facility
+ LAMPS stands for Large Adivasi Multi-purpose Co-operative Societies
+ LAN stands for Local Area Network
+ LIBOR stands for London Inter-Bank Offered Rate
+ LIC stands for Life Insurance Corporation of India
+ LME stands for London Metal Exchange
+ LOBOM stands for Lower of Book Value or Market Price
+ LoC stands for Letter of Comfort
+ LPA stands for Long Period Average
+ LTCCS stands for Long-Term Cooperative Credit Structure
+ LTO stands for Long Term Operations
+ LTV stands for Loan-to-Value
+ M3 stands for Broad Money
+ MAP stands for Monitorable Action Plan
+ MASI stands for Management Audit and Systems Inspection
+ MBC stands for Mutual Benefit Company
+ MDB stands for Multilateral Development Bank
+ MEDP stands for Micro Enterprise Development Programme
+ MFDEF stands for Micro Finance Development and Equity Fund
+ MFI stands for Micro Finance Institution
+ MFIs stands for Micro-Finance Institutions
+ MFs stands for Mutual Funds
+ MGCS stands for Mortgage Guarantee Companies
+ MGNREGA stands for Mahatma Gandhi National Rural Employment Guarantee Act
+ MIBOR stands for Mumbai Inter-Bank Offer Rate
+ MICR stands for Magnetic Ink Character Recognition
+ MIS stands for Management Information System
+ MJT stands for Mobile Job Trainer
+ MLFPS stands for Market Linked Focus Product Scheme
+ MLRO stands for Money Laundering Reporting Office
+ MMA stands for Macro Management of Agricultural Scheme
+ MMBCS stands for Magnetic Media Based Clearing System
+ MMS stands for Mail Messaging Solution
+ MMS stands for Multi-Modal Settlement
+ MNBC stands for Miscellaneous Non-Banking Companies
+ MNSB stands for Multilateral Net Settlement Batch
+ MoU stands for Memorandum of Understanding
+ MPLS stands for Multi-Protocol Layer Switching
+ MSE stands for Micro & Small Enterprises
+ MSEs stands for Micro and Small Enterprises
+ MSS stands for Market Stabilisation Scheme
+ MSMEs stands for Micro, Small and Medium Enterprises
+ MSME stands for Micro, Small and Medium Enterprises
+ MSOE stands for Minimum Standard for Operational Efficiency
+ MSS stands for Market Stabilisation Scheme
+ MTFPS stands for Medium Term Fiscal Policy Statement
+ MTM stands for Mark-to-Market
+ NABARD stands for National Bank for Agriculture and Rural Development
+ NAV stands for Net Asset Value
+ NBC stands for Net Bank Credit
+ NBFCs stands for Non-Banking Financial Companies
+ NBFC stands for Non-Banking Financial Company
+ NBFC-ND stands for Non-Deposit taking Non-Banking Financial Company
+ NBFC- ND-SI stands for Systemically Important Non-Deposit taking Non-Banking Financial Company
+ NBFI stands for Non-Banking Financial Institutions
+ NBV stands for Net Book Value
+ NCAF stands for New Capital Adequacy Framework
+ NCDs stands for Non-Convertible Debentures
+ NCEUS stands for National Commission for Enterprises in Unorganised Sector
+ NCPA stands for National Centre for Performing Arts
+ NCR stands for National Capital Region
+ NDC stands for No Due Certificate
+ NDS stands for Negotiated Dealing System
+ NDS-OM stands for NDS Order Matching
+ NDTL stands for Net Demand and Time Liabilities
+ NECS stands for National Electronic Clearing Service
+ NEDFi stands for North Eastern Development Finance Corporation
+ NEFIS stands for Nationwide Electronic Financial Inclusion System
+ NEFT stands for National Electronic Funds Transfer
+ NFA stands for New Financial Architecture
+ NFCC stands for National Foundation for Credit Counselling
+ NFGBC stands for Non-food Gross Bank Credit
+ NFR stands for Non-Financial Reporting
+ NFS stands for National Financial Switch
+ NFSM stands for National Food Security Mission
+ NGO stands for Non-Government Organisation
+ NHB stands for National Housing Bank
+ NHC stands for National Housing Credit
+ NIA stands for New India Assurance Company Limited
+ NIBM stands for National Institute of Bank Management
+ NIC stands for National Informatic Centre
+ NIC stands for National Informatic Centre
+ NIMC stands for National Implementation Monitoring Committee
+ NKA stands for Net Capital Account
+ NOC stands for No Objection Certificate
+ NOF stands for Net Owned Fund
+ NPA stands for Note Purchase Agreement
+ NPA stands for Non Performing Asset
+ NPCI stands for National Payments Corporation of India
+ NPFA stands for Non-Performing Financial Assets
+ NPL stands for Non-Performing Loan
+ NRE stands for Non-Resident External
+ NR(E)RA stands for Non-resident (External) Rupee Account
+ NREGA stands for National Rural Employment Guarantee Act
+ NRI stands for Non- Resident Indian
+ NSCCL stands for National Securities Clearing Corporation Limited
+ NSE stands for National Stock Exchange
+ NSM stands for Note Sorting Machines
+ NSSF stands for National Social Security Fund
+ OBE stands for Off Balancesheet Exposure
+ OBS stands for Off-balance Sheet
+ OBU stands for Off-Shore Banking Units
+ ODI stands for Overseas Direct Investment
+ OECD stands for Organisation for Economic Co-operation and Development
+ OIS stands for Overnight Index Swap
+ OLRR stands for On-line Reject Repair
+ OLTAS stands for On-line Tax Accounting System
+ OMO stands for Open Market Operation
+ OPEC stands for Organisation of the Petroleum Exporting Countries
+ ORFS stands for Online Returns Filing System
+ OSMOS stands for Offsite Monitoring System
+ OSS stands for Offsite Surveillance System
+ OTC stands for Over the Counter
+ OTS stands for One Time Settlement
+ PACS stands for Primary Agricultural Credit Societies
+ PAD stands for Public Accounts Department
+ PAIS stands for Personal Accident Insurance Scheme
+ PBR stands for Principles-based Regulation
+ PCARDB stands for Primary Cooperative Agriculture and Rural Development Bank
+ PCO stands for Public Call Office
+ PCPS stands for Perpetual Cumulative Preference Shares
+ PCR stands for Provisioning Coverage Ratio
+ PCR stands for Public Credit Registry
+ PD stands for Primary Dealer
+ PDI stands for Perpetual Debt Instruments
+ PDO stands for Public Debt Office
+ PDS stands for Public Distribution System
+ PDAI stands for Primary Dealers Association of India
+ PFM stands for Pension Fund Management
+ PFRDA stands for Pension Fund Regulatory and Development Authority
+ PIMC stands for Project Implementation Monitoring Committee
+ PIO stands for Principal Inspection Officer
+ PKI stands for Public Key Infrastructure
+ PLR stands for Prime Lending Rate
+ PMEGP stands for Prime Minister’s Employment Generation Programme
+ PMLA stands for Prevention of Money Laundering Act
+ PMRY stands for Prime Minister Rojgar Yojna
+ PNCPS stands for Perpetual Non-cumulative Preference Shares
+ POS stands for Points of Sale
+ PPID stands for Pilot Project for Integrated Development
+ PPP stands for Purchasing Power Parity
+ PRGT stands for Poverty Reduction and Growth Trust
+ PSB stands for Public Sector Bank
+ PSE stands for Public Sector Enterprise
+ PSLC stands for Priority Sector Lending Certificates
+ PSS stands for Payment and Settlement System
+ PV stands for Present Value
+ QIS stands for Quantitative Impact Assessment
+ RBA stands for Reserve Bank of Australia
+ RBIA stands for Risk Based Internal Audit
+ RBS stands for Risk-Based Supervision
+ RBSC stands for Reserve Bank Staff College
+ RCPS stands for Redeemable Cumulative Preference Shares
+ RCS stands for Registrar of Cooperative Societies
+ RD stands for Revenue Deficit
+ RDA stands for Rupee Drawing Arrangement
+ RECS stands for Regional Electronic Clearing Service
+ REGP stands for Rural Employment Generation Programme
+ RFA stands for Revolving Fund Assistance
+ RIDF stands for Rural Infrastructure Development Fund
+ RKVY stands for Rashtriya Krishi Vikas Yojana
+ RMA stands for Royal Monetary Authority
+ RMD stands for Resource Management Discussion
+ RML stands for Reverse Mortgage Loan
+ RNBC stands for Residuary Non-Banking Company
+ RNCPS stands for Redeemable Non-Cumulative Preference Shares
+ RoA stands for Return on Assets
+ ROC stands for Registrar of Companies
+ RoE stands for Return on Equity
+ RRB stands for Regional Rural Bank
+ RTGS stands for Real Time Gross Settlement
+ RTP stands for Reserve Tranche Position
+ SAA stands for Service Area Approach
+ SAARC stands for South Asian Association for Regional Cooperation
+ SACP stands for Special Agricultural Credit Plan
+ SACRED stands for Scheme for Agricultural Credit Development
+ SAO stands for Seasonal Agricultural Operations
+ SAR stands for Self-Assessment Report
+ SARFAESI stands for Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest
+ SARS stands for Severe Acute Respiratory Syndrome
+ SBLP stands for SHG-Bank Linkage Programme
+ SC stands for Scheduled Caste
+ SCARDB stands for State Cooperative Agriculture and Rural Development Bank
+ SCB stands for Scheduled Commercial Bank
+ SCDs stands for Small Coin Depots
+ SD stands for Sustainable Development
+ SDLs stands for State Development Loans
+ SDR stands for Special Drawing Right
+ SDS stands for Special Deposit Scheme
+ SEB stands for State Electricity Board
+ SEBI stands for Securities and Exchange Board of India
+ SEFCs stands for Small Enterprises Financial Centres
+ SEFT stands for Special Electronic Funds Transfer
+ SEZ stands for Special Economic Zone
+ SFAC stands for Small Farmers Agri-Business Consortium
+ SFC stands for State Financial Corporation
+ SFIO stands for Serious Frauds Investigation Office
+ SFMS stands for Structured Financial Messaging System
+ SGL stands for Subsidiary General Ledger
+ SGSY stands for Swarn Jayanti Gram Swarojgar Yojna
+ SHG stands for Self-Help Group
+ SHPI stands for Self-Help Promoting Institutions
+ SIDBI stands for Small Industries Development Bank of India
+ SIDC stands for State Industrial Development Corporation
+ SIFIs stands for Systemically Important Financial Institutions
+ SIPS stands for Systemically Important Payment Systems
+ SJSRY stands for Swarna Jayanti Shahari Rojgar Yojna
+ SLA stands for Service Level Agreement
+ SLAF stands for Second Liquidity Adjustment Facility
+ SLBCs stands for State Level Bankers’ Committees
+ SLEPCS stands for State Level Export Promotion Committees
+ SLR stands for Statutory Liquidity Ratio
+ SLRS stands for Scheme for Liberalisation and Rehabilitation of Scavengers
+ SMEs stands for Small and Medium Enterprises
+ SME stands for Small and Medium Enterprise
+ SPMCIL stands for Security Printing and Minting Corporation of India Ltd.
+ SPV stands for Special Purpose Vehicle
+ SR stands for Security Receipt
+ SREP stands for Supervisory Review and Evaluation Process
+ SRF stands for Special Refinance Facility
+ SRMS stands for Self Employment Scheme for Rehabilitation of Manual Scavengers
+ SRP stands for Supervisory Review Process
+ SSC stands for Special Sub-Committees
+ SSI stands for Small Scale Industry
+ SSS stands for Securities Settlement System
+ ST stands for Scheduled Tribe
+ STC stands for Standing Technical Committee
+ StCBs stands for State Co-operative Banks
+ STCCS stands for Short-Term Cooperative Credit Structure
+ STCRE stands for Short-Term Cooperative Rural Credit
+ STOs stands for Sub Treasury Offices
+ STP stands for Straight Through Processing
+ STR stands for Suspicious Transaction Report
+ STRIPS stands for Separate Trading of Registered Interest and Principal of Securities
+ SWIFT stands for Society for Worldwide Financial Telecommunication
+ SWIPS stands for System-Wide Important Payment System
+ TAC stands for Technical Advisory Committee
+ TACMP stands for Technical Advisory Committee on Monetary Policy
+ TAFCUB stands for Task Force for Urban Cooperative Bank
+ TAG stands for Technical Advisory Group
+ TBs stands for Treasury Bills
+ TFCI stands for Tourism Finance Corporation of India
+ TFP stands for Total Factor Productivity
+ ThFC stands for Thirteenth Finance Commission
+ TSA stands for The Standardised Approach
+ TwFC stands for Twelfth Finance Commission
+ VAR stands for Vector Autoregression
+ VaR stands for Value at Risk
+ VCF stands for Venture Capital Fund
+ VDP stands for Village Development Programme
+ VKC stands for Village Knowledge Centre
+ VPN stands for Virtual Private Networks
+ VRS stands for Voluntary Retirement Scheme
+ VSAT stands for Very Small Aperture Terminal
+ WADR stands for Weighted Average Discount Rate
+ WCTL stands for Working Capital Term Loan
+ WEO stands for World Economic Outlook
+ WGRFIS stands for Working Group on Future Role of Financial Institutions
+ WPI stands for Wholesale Price Index
+ WMA stands for Ways and Means Advances
+ WOS stands for Wholly Owned Subsidiary
+ XBRL stands for Extensible Business Reporting Language
+ XML stands for Extensible Markup Language
+ ZCYC stands for Zero Coupon Yield Curve
+ ZTC stands for Zonal Training Centre
